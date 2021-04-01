@@ -5,14 +5,14 @@ Capstone project FSND provided by Udicity
 ## Hosted on heroku.
 
 
-Link](https://movieagencies.herokuapp.com).
+Link]( https://pumpkin-surprise-86018.herokuapp.com/).
 
 ## Working with the application locally
 Make sure you have [python 3](https://www.python.org/downloads/) or later installed
 
 1. **Clone The Repo**
     ```bash
-    git clone https://github.com/Haddadmj/FSND_Capstone_Casting_Agency
+    git clone https://github.com/zainabAliAlabbad/capstone
     ```
 2. **Set up a virtual environment**:
     ```bash
@@ -62,15 +62,6 @@ Use this command " pip3 install -r requirements.txt "
 The API has three users :
 
 Assistant
-
-
-Credentials:
-```
-Email: boob.75@hotmail.com
-Password: A1b2c3d4
-```
-
-
 Roles:
 ```
 a- Get actors
@@ -78,15 +69,6 @@ b- Get movies
 ```
 
 Director
-
-
-Credentials:
-```
-Email: zainab.ali.1415@hotmail.com
-Password: A1b2c3d4
-```
-
-
 Roles:
 ```
 a- Get actors
@@ -99,14 +81,6 @@ f- delete actor
 
 
 Producer
-
-Credentials:
-```
-Email: zainab.ali.1415@hotmail.com
-Password: A1b2c3d4
-```
-
-
 Roles:
 ```
 a- Get actors
