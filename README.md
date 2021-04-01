@@ -62,6 +62,15 @@ Use this command " pip3 install -r requirements.txt "
 The API has three users :
 
 Assistant
+
+
+Credentials:
+```
+Email: assistant@fsnd.com
+Password: A1b2c3d4
+```
+
+
 Roles:
 ```
 a- Get actors
@@ -69,6 +78,15 @@ b- Get movies
 ```
 
 Director
+
+
+Credentials:
+```
+Email: director@fsnd.com
+Password: A1b2c3d4
+```
+
+
 Roles:
 ```
 a- Get actors
@@ -81,6 +99,13 @@ f- delete actor
 
 
 Producer
+
+Credentials:
+```
+Email: producer@fsnd.com
+Password: A1b2c3d4
+```
+
 Roles:
 ```
 a- Get actors
