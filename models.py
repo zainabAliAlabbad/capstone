@@ -13,7 +13,7 @@ import json
 # App Config.
 #----------------------------------------------------------------------------#
 
-database_path = 'postgresql://postgres:A1b2c3d4@localhost:5432/capstone-project'
+database_path = 'postgres://ynzugaahlzqvcl:c18809e71e6beca3e465edad9cb45314105d2415577d69d4013476b39c1d3919@ec2-3-211-37-117.compute-1.amazonaws.com:5432/d6o29je8ha9j7g'
 
 db = SQLAlchemy()
 
